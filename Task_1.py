@@ -5,6 +5,7 @@ my_info = {
     "last name": "Ismailov",
     "age": 20,
     "Email": "Zhantai.Ismailov@gmail.com",
+    "Phone number": "+996 702-00-79-90",
     "city": "Bishkek",
     "university": "Girne American University",
     "place of work": "Lego robotics teacher",
